@@ -1,2 +1,3 @@
 # Ejercicio4-Python
-# Ejercicio4-Python
+
+Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
